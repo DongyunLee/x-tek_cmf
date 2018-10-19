@@ -1,0 +1,26 @@
+{
+  "name": "x-tek_cmf",
+  "version": "0.1.0",
+  "description": "一套基于laravel的cmf系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DongyunLee/x-tek_cmf.git"
+  },
+  "author": "Ch4o5",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DongyunLee/x-tek_cmf/issues"
+  },
+  "homepage": "https://github.com/DongyunLee/x-tek_cmf#readme",
+  "dependencies": {
+    "flexslider": "^2.7.1",
+    "jquery": "^3.3.1",
+    "layer": "^0.1.0",
+    "plupload": "^2.3.6",
+    "swiper": "^4.4.1"
+  }
+}
