@@ -1,6 +1,6 @@
 {
     "name": "dongyun-lee/x-tek_cmf",
-    "description": "laravel\u0000cmf",
+    "description": "laravel_cmf",
     "type": "project",
     "require": {
         "laravel/framework": "^5.6",
